@@ -1,0 +1,7 @@
+C:\Users\ali65\Desktop\ornek_kodlar\kdv_hesabi\bin\Debug\kdv_hesabi.exe.config
+C:\Users\ali65\Desktop\ornek_kodlar\kdv_hesabi\bin\Debug\kdv_hesabi.exe
+C:\Users\ali65\Desktop\ornek_kodlar\kdv_hesabi\bin\Debug\kdv_hesabi.pdb
+C:\Users\ali65\Desktop\ornek_kodlar\kdv_hesabi\obj\Debug\kdv_hesabi.csproj.AssemblyReference.cache
+C:\Users\ali65\Desktop\ornek_kodlar\kdv_hesabi\obj\Debug\kdv_hesabi.csproj.CoreCompileInputs.cache
+C:\Users\ali65\Desktop\ornek_kodlar\kdv_hesabi\obj\Debug\kdv_hesabi.exe
+C:\Users\ali65\Desktop\ornek_kodlar\kdv_hesabi\obj\Debug\kdv_hesabi.pdb

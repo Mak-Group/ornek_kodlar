@@ -1,0 +1,7 @@
+C:\Users\ali65\Desktop\ornek_kodlar\hipotenus_hesaplama\bin\Debug\hipotenus_hesaplama.exe.config
+C:\Users\ali65\Desktop\ornek_kodlar\hipotenus_hesaplama\bin\Debug\hipotenus_hesaplama.exe
+C:\Users\ali65\Desktop\ornek_kodlar\hipotenus_hesaplama\bin\Debug\hipotenus_hesaplama.pdb
+C:\Users\ali65\Desktop\ornek_kodlar\hipotenus_hesaplama\obj\Debug\hipotenus_hesaplama.csproj.AssemblyReference.cache
+C:\Users\ali65\Desktop\ornek_kodlar\hipotenus_hesaplama\obj\Debug\hipotenus_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ali65\Desktop\ornek_kodlar\hipotenus_hesaplama\obj\Debug\hipotenus_hesaplama.exe
+C:\Users\ali65\Desktop\ornek_kodlar\hipotenus_hesaplama\obj\Debug\hipotenus_hesaplama.pdb

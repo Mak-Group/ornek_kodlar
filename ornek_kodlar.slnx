@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="daire_alani_cevresi/daire_alani_cevresi.csproj" Id="87f9364f-7b44-49d9-a07d-84e54d3e2ef6" />
+  <Project Path="hipotenus_hesaplama/hipotenus_hesaplama.csproj" Id="b048f520-e89b-4a1e-b531-8857f296fa4d" />
+  <Project Path="kdv_hesabi/kdv_hesabi.csproj" Id="11249d2c-c061-4f57-bee8-4e454f16b6cb" />
+  <Project Path="not_ortalamasi_hesapla/not_ortalamasi_hesapla.csproj" Id="47433944-16cc-43c0-b9fc-3618f979aea5" />
+  <Project Path="ornek_kodlar/ornek_kodlar.csproj" Id="6f8eec81-52c2-48f6-9970-eb4c6e1d3ceb" />
+  <Project Path="ucak_bileti_hesaplama/ucak_bileti_hesaplama.csproj" Id="41b508d8-0035-4846-8025-350e0fe4623d" />
+</Solution>

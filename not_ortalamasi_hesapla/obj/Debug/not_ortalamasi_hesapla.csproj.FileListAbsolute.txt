@@ -1,0 +1,7 @@
+C:\Users\ali65\Desktop\ornek_kodlar\not_ortalamasi_hesapla\bin\Debug\not_ortalamasi_hesapla.exe.config
+C:\Users\ali65\Desktop\ornek_kodlar\not_ortalamasi_hesapla\bin\Debug\not_ortalamasi_hesapla.exe
+C:\Users\ali65\Desktop\ornek_kodlar\not_ortalamasi_hesapla\bin\Debug\not_ortalamasi_hesapla.pdb
+C:\Users\ali65\Desktop\ornek_kodlar\not_ortalamasi_hesapla\obj\Debug\not_ortalamasi_hesapla.csproj.AssemblyReference.cache
+C:\Users\ali65\Desktop\ornek_kodlar\not_ortalamasi_hesapla\obj\Debug\not_ortalamasi_hesapla.csproj.CoreCompileInputs.cache
+C:\Users\ali65\Desktop\ornek_kodlar\not_ortalamasi_hesapla\obj\Debug\not_ortalamasi_hesapla.exe
+C:\Users\ali65\Desktop\ornek_kodlar\not_ortalamasi_hesapla\obj\Debug\not_ortalamasi_hesapla.pdb

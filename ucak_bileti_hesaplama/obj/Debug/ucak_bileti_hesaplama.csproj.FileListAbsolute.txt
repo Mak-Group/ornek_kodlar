@@ -1,0 +1,7 @@
+C:\Users\ali65\Desktop\ornek_kodlar\ucak_bileti_hesaplama\bin\Debug\ucak_bileti_hesaplama.exe.config
+C:\Users\ali65\Desktop\ornek_kodlar\ucak_bileti_hesaplama\bin\Debug\ucak_bileti_hesaplama.exe
+C:\Users\ali65\Desktop\ornek_kodlar\ucak_bileti_hesaplama\bin\Debug\ucak_bileti_hesaplama.pdb
+C:\Users\ali65\Desktop\ornek_kodlar\ucak_bileti_hesaplama\obj\Debug\ucak_bileti_hesaplama.csproj.AssemblyReference.cache
+C:\Users\ali65\Desktop\ornek_kodlar\ucak_bileti_hesaplama\obj\Debug\ucak_bileti_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ali65\Desktop\ornek_kodlar\ucak_bileti_hesaplama\obj\Debug\ucak_bileti_hesaplama.exe
+C:\Users\ali65\Desktop\ornek_kodlar\ucak_bileti_hesaplama\obj\Debug\ucak_bileti_hesaplama.pdb

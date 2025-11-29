@@ -1,0 +1,7 @@
+C:\Users\ali65\Desktop\ornek_kodlar\daire_alani_cevresi\bin\Debug\daire_alani_cevresi.exe.config
+C:\Users\ali65\Desktop\ornek_kodlar\daire_alani_cevresi\bin\Debug\daire_alani_cevresi.exe
+C:\Users\ali65\Desktop\ornek_kodlar\daire_alani_cevresi\bin\Debug\daire_alani_cevresi.pdb
+C:\Users\ali65\Desktop\ornek_kodlar\daire_alani_cevresi\obj\Debug\daire_alani_cevresi.csproj.AssemblyReference.cache
+C:\Users\ali65\Desktop\ornek_kodlar\daire_alani_cevresi\obj\Debug\daire_alani_cevresi.csproj.CoreCompileInputs.cache
+C:\Users\ali65\Desktop\ornek_kodlar\daire_alani_cevresi\obj\Debug\daire_alani_cevresi.exe
+C:\Users\ali65\Desktop\ornek_kodlar\daire_alani_cevresi\obj\Debug\daire_alani_cevresi.pdb
